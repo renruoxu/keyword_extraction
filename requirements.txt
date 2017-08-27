@@ -6,3 +6,6 @@ jupyter
 git+https://github.com/ldkrsi/jieba-zh_TW.git@v0.36
 matplotlib
 seaborn
+networkx
+scipy
+sklearn
