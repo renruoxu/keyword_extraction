@@ -10,6 +10,9 @@ Inspired from [TextRank](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.em
 -- TagRank.py # TagRank model in Python format
 -- data.csv # data downloaded as a CSV file
 -- requirements.txt # pre-requisitions of the model
+-- exploration/
+	|-- x.ipynb # notebook for exploration and visualisation
+-- simhei.ttf #Chinese font file for visualisation
 ```
 
 #### Reasons for using Graph-based model
