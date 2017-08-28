@@ -7,6 +7,7 @@ Inspired from [TextRank](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.em
 	|-- __init__.py
 	|-- preprocess.py #preprocessing functions
 -- TagRank.ipynb # TagRank model for keyword extraction
+-- TagRank.py # TagRank model in Python format
 -- data.csv # data downloaded as a CSV file
 -- requirements.txt # pre-requisitions of the model
 ```
